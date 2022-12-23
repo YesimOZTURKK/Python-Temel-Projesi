@@ -41,3 +41,4 @@ for l in range(len(a)):
     (a[l])=(a[l])[::-1] 
 print(a)
 ```
+www.patika.dev
